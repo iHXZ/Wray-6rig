@@ -3,7 +3,6 @@ name: Build Flutter Android APK and AAB
 on:
   push:
     branches:
-    - main   # السابق
     + master # الجديد
 
 jobs:
